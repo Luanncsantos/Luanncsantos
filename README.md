@@ -1,7 +1,7 @@
-<h1> 👋🏻😁 Olá! Seja bem vindo(a)! Eu sou o Luan, estudante de Front-End e formado em Analise e Desenvolvimento de Sistemas! </h1>
+<h1>👋🏻😁 Olá! Seja bem vindo(a)! Eu sou o Luan, estudante de Front-End e formado em Analise e Desenvolvimento de Sistemas!</h1>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Luanncsantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luanncsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanncsantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif">
+  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Luan-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
